@@ -31,5 +31,3 @@ export const Navbar = () => {
   )
 }
 
-
-// LEFT ALT + SHIFT (TO CHANGE KEYBOARD LANGUAGE!)
